@@ -1,4 +1,4 @@
-# Showing and graphinthe Butterfly Effect in Statistical thermodynamics, with multiple variables
+# Showing and graphing the Butterfly Effect in Statistical thermodynamics, with multiple variables
 
 # Import relavent libraries and functions
 import numpy as np
